@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Kamil Daniel Legal</title>
         <meta name="description" content="Legal and compliance advice." />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <Disclaimer/>
