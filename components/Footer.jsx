@@ -1,8 +1,8 @@
 const navigation = {
     main: [
-      { name: 'About', href: '#' },
-      { name: 'Privacy Policy', href: '#' },
-      { name: 'Terms and conditions', href: '#' },
+      { name: 'Disclaimer', href: '/disclaimer' },
+      { name: 'Privacy Policy', href: '/privacy-policy' },
+      { name: 'Terms and conditions', href: '/terms' },
       
     ],
     social: [
@@ -91,7 +91,7 @@ const navigation = {
               </a>
             ))}
           </div> */}
-          <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Kamil Daniel, LLC. All rights reserved.</p>
+          <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Kamil Daniel, LTD. All rights reserved.</p>
         </div>
       </footer>
     )

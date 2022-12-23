@@ -18,19 +18,19 @@ import Image from 'next/image'
 const people = [
     {
       name: 'Kamil Daniel Akdag',
-      role: 'Founder & CEO',
+      role: 'Founding Partner',
       imageUrl:
         kamil,
-      bio: 'Kamil is trained in common law (LLB Full Scholarship + Hons.) from King’s College London, (UK) then civil law (EU ErasmusMaster Level Grant, Distinction) from Uppsala University, (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since gone to New York to seek admission to the third appellate division of NYC (pending) to further an Anglo Saxon expertise for global clients.',
+      bio: 'Kamil is educated in common law (LLB Full Scholarship + Hons.) from King’s College London, (UK) Subsequently, he pursued civil law funded by the EU Erasmus Master Grant (Distinction) from Uppsala University (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since travelled to New York to seek admission to the third appellate division of NYC to further develop his international qualifications and bring a truly global perspective to clients.',
       twitterUrl: '#',
-      linkedinUrl: '#',
+      linkedinUrl: 'https://ch.linkedin.com/in/kamilkdaniel?trk=public-profile-badge-profile-badge-view-profile-cta',
     },
     // More people...
   ]
   
   export default function Example() {
     return (
-      <div className="bg-white">
+      <div id="about" className="bg-white">
         <div className="mx-auto max-w-5xl py-12 px-4 sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
@@ -47,7 +47,7 @@ const people = [
                 {people.map((person) => (
                   <li key={person.name} className="sm:py-8">
                     <div className="space-y-4 sm:grid sm:grid-cols-3 sm:items-start sm:gap-6 sm:space-y-0">
-                      <div className="aspect-w-3 aspect-h-2 sm:aspect-w-3 sm:aspect-h-4 h-48 w-full relative">
+                      <div className="aspect-w-3 aspect-h-4 sm:aspect-w-3 sm:aspect-h-4 sm:h-48 w-full relative">
                         <Image layout="fill" objectFit="cover" className="rounded-lg" src={person.imageUrl} alt="" />
                       </div>
                       <div className="sm:col-span-2">

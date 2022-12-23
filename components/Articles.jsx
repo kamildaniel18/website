@@ -26,7 +26,7 @@ const posts = [
       date: 'Mar 10, 2020',
       datetime: '2020-03-10',
       imageUrl:
-        'https://images.unsplash.com/photo-1561485704-31d8a20503cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80',
+        'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 ',
       readingTime: '4 min',
       author: {
         name: 'Kamil Daniel Akdag',
@@ -44,7 +44,7 @@ const posts = [
       date: 'Feb 12, 2020',
       datetime: '2020-02-12',
       imageUrl:
-        'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
+        'https://images.unsplash.com/photo-1561485704-31d8a20503cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80',
       readingTime: '11 min',
       author: {
         name: 'Carbon and Climate Law Review',
@@ -57,7 +57,7 @@ const posts = [
   
   export default function Example() {
     return (
-      <div className="relative bg-white px-4 pt-16 pb-20 sm:px-6 lg:px-8 lg:pt-48 lg:pb-28 max-w-5xl mx-auto">
+      <div id="articles" className="relative bg-white px-4 pt-16 pb-20 sm:px-6 lg:px-8 lg:pt-48 lg:pb-28 max-w-5xl mx-auto">
         <div className="absolute inset-0">
           <div className="h-1/3 bg-white sm:h-2/3" />
         </div>
