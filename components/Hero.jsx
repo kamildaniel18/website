@@ -3,12 +3,12 @@ import { useState } from 'react'
 import Image from 'next/image'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../public/img/logo.svg'
+import logo from '../public/img/logo.png'
 import Link from 'next/link'
 const navigation = [
-  { name: 'Expertise', href: '#expertise' },
-  { name: 'Articles', href: '#articles' },
-  { name: 'About', href: '#about' },
+  { name: 'Expertise', href: '/#expertise' },
+  { name: 'Articles', href: '/#articles' },
+  { name: 'About', href: '/#about' },
   
 ]
 
@@ -155,7 +155,7 @@ export default function Example() {
                 <div className="mt-8 flex gap-x-4 sm:justify-center">
                   <a
                     href="https://calendly.com/kamildaniel-legal/kamildaniel?month=2022-12"
-                    className="inline-block rounded-lg bg-green-600 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-green-600 hover:bg-green-700 hover:ring-green-700"
+                    className="inline-block rounded-lg bg-green-600 px-4 py-1.5 text-sm font-semibold leading-7 text-white shadow-sm ring-1 ring-green-600 hover:bg-green-700 hover:ring-green-700"
                   >
                     Book a call
                     <span className="text-green-200 ml-1" aria-hidden="true">
@@ -164,7 +164,7 @@ export default function Example() {
                   </a>
                   <a
                     href="https://be.linkedin.com/company/kamildaniel?trk=public_profile_topcard-current-company"
-                    className="inline-block rounded-lg px-4 py-1.5 text-base font-semibold leading-7 text-gray-900 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
+                    className="inline-block rounded-lg px-4 py-1.5 text-sm font-semibold leading-7 text-gray-900 ring-1 ring-gray-900/10 hover:ring-gray-900/20"
                   >
                     Find on LinkedIn
                     <span className="text-gray-400 ml-1" aria-hidden="true">

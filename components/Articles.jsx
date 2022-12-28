@@ -11,7 +11,7 @@ const posts = [
         'https://images.unsplash.com/photo-1569410593054-c37f3c20c52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80',
       readingTime: '6 min',
       author: {
-        name: 'Institure of Blockchain & Climate',
+        name: 'Institute of Blockchain & Climate',
         href: '#',
         imageUrl:
           'https://blockchainclimate.org/wp-content/uploads/2020/11/cropped-BCI_Logo_LR-400x333.png',
