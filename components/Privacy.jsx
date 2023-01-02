@@ -3,7 +3,7 @@ import { useState } from 'react'
 import Image from 'next/image'
 import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-import logo from '../public/img/logo.svg'
+import logo from '../public/img/logo.png'
 import Link from 'next/link'
 const navigation = [
   { name: 'Expertise', href: '#expertise' },

@@ -21,7 +21,7 @@ const people = [
       role: 'Founding Partner',
       imageUrl:
         kamil,
-      bio: 'Kamil is educated in common law (LLB Full Scholarship + Hons.) from King’s College London, (UK) Subsequently, he pursued civil law funded by the EU Erasmus Master Grant (Distinction) from Uppsala University (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since travelled to New York to seek admission to the third appellate division of NYC to further develop his international qualifications and bring a truly global perspective to clients.',
+      bio: 'Kamil is educated in common law (LLB Full Scholarship + Hons.) from King’s College London, (UK) Subsequently, he pursued civil law funded by the EU Erasmus Master Grant (Distinction) from Uppsala University (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since travelled to New York to seek admission to the third appellate division of NYC to further develop his international qualifications and bring a truly global perspective to clients. Kamil speaks fluently French, English, and Farsi and has a proper level of Croatian (B2) and German (B2).',
       twitterUrl: '#',
       linkedinUrl: 'https://ch.linkedin.com/in/kamilkdaniel?trk=public-profile-badge-profile-badge-view-profile-cta',
     },
@@ -36,7 +36,7 @@ const people = [
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-regular font-serif italic tracking-tight sm:text-4xl">About Us</h2>
               <p className="text-lg font-regular text-gray-500">
-                A boutique legal and consulting firm in the heart of London.
+                A boutique legal and consulting firm in the heart of London. Kamil&apos;s combined experience varies from work within regulator-public institutions, Global think tanks, European Political parties, and Private Corporate practices. Ranging from pre-seeds, startups, scale-ups, and finally, private companies or publicly listed (FTSE, NYSE, SnP500, Fortune amongst), Examining both from a Corporate angle and a Regulator’s lens. Kamil uses his network of corporate, public, and private clients to offer consultancy advice diligently/duly within and across borders or jurisdictions​. Whether international, regional, federal, or local.
               </p>
             </div>
             <div className="lg:col-span-2">
