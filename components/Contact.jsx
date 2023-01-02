@@ -31,7 +31,7 @@ export default function Example() {
               <div>
                 <dt className="sr-only">Postal address</dt>
                 <dd>
-                <p>Kamil Daniel LLC</p>
+                <p>Kamil Daniel LTD</p>
                   <p>Floor 5, 20 Saville Row</p>
                   <p>London, W1S 3SR</p>
                 </dd>
@@ -89,7 +89,7 @@ export default function Example() {
             <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For US requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-                Available for in-person meetings in the United States & Canada, in Q1 2023.
+                Available for in-person meetings in the United States & Canada, in Q2 2023.
               </p>
             </div>
             
