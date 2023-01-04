@@ -8,7 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Kamil Daniel Legal</title>
-        <meta name="description" content="Legal and compliance advice." />
+        <meta name="description" content="Legal and Compliance advice." />
         <link rel="icon" href="/favicon.png" />
       </Head>
 
