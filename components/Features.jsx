@@ -5,7 +5,7 @@ const metrics = [
     { id: 2, stat: 'Finance, Technology & Policy', emphasis: 'Clients', rest: 'lacus nibh integer quis.' },
     { id: 3, stat: 'Climate, ESG and Environmental', emphasis: 'Clients include', rest: 'laoreet amet lacus nibh integer quis.' },
     { id: 4, stat: 'Art, Intellectual Property and Creative', emphasis: 'Clients include', rest: 'laoreet amet lacus nibh integer quis.' },
-    { id: 5, stat: 'Blockchain, Crypto and web3', emphasis: 'Previously', rest: 'lacus nibh integer quis.' },
+    { id: 5, stat: 'Blockchain, Crypto and Web 3.0', emphasis: 'Previously', rest: 'lacus nibh integer quis.' },
   ]
   
   export default function Example() {
