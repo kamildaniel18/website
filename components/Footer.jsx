@@ -3,7 +3,7 @@ const navigation = {
       { name: 'Disclaimer', href: '/disclaimer' },
       { name: 'Privacy Policy', href: '/privacy-policy' },
       { name: 'Terms and conditions', href: '/terms' },
-      { name: 'Cookies', href: '/cookies' },
+      { name: 'Cookies Policy', href: '/cookies' },
     ],
     social: [
       {
@@ -91,7 +91,7 @@ const navigation = {
               </a>
             ))}
           </div> */}
-          <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Kamil Daniel, LTD. All rights reserved.</p>
+          <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Kamil Daniel, LLC. All rights reserved.</p>
           <p className="mt-8 text-center text-base text-gray-400">By continuing to use the website, you agree to KamilDaniel&apos;s Terms & Conditions, Disclaimer, Privacy Policy and Cookies Policy.</p>
         </div>
       </footer>

@@ -13,7 +13,7 @@
   ```
 */
 import { EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
-
+import Link from 'next/link'
 export default function Example() {
   return (
     <div className="relative bg-white">
@@ -31,7 +31,7 @@ export default function Example() {
               <div>
                 <dt className="sr-only">Postal address</dt>
                 <dd>
-                <p>Kamil Daniel LTD</p>
+                <p>Kamil Daniel LLC</p>
                   <p>Floor 5, 20 Saville Row</p>
                   <p>London, W1S 3SR</p>
                 </dd>
@@ -47,7 +47,7 @@ export default function Example() {
                 <dt className="sr-only">Email</dt>
                 <dd className="flex">
                   <EnvelopeIcon className="h-6 w-6 flex-shrink-0 text-gray-400" aria-hidden="true" />
-                  <span className="ml-3">kamil@akdag.com</span>
+                  <span className="ml-3"><Link href="mailto:kamil@akdag.com">kamil@akdag.com</Link></span>
                 </dd>
               </div>
             </dl>
@@ -89,7 +89,7 @@ export default function Example() {
             <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For US requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-                Available for in-person meetings in the United States & Canada, in Q2 2023.
+                Available for in-person meetings in the United States & Canada, in Q1 & Q2 2023.
               </p>
             </div>
             

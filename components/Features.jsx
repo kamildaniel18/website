@@ -1,7 +1,7 @@
 import { ChevronDoubleRightIcon, StarIcon } from "@heroicons/react/24/outline"
 
 const metrics = [
-    { id: 1, stat: 'Legal and compliance', emphasis: 'Clients', rest: 'use laoreet amet lacus nibh integer quis.' },
+    { id: 1, stat: 'Legal and Compliance', emphasis: 'Clients', rest: 'use laoreet amet lacus nibh integer quis.' },
     { id: 2, stat: 'Finance, Technology & Policy', emphasis: 'Clients', rest: 'lacus nibh integer quis.' },
     { id: 3, stat: 'Climate, ESG and Environmental', emphasis: 'Clients include', rest: 'laoreet amet lacus nibh integer quis.' },
     { id: 4, stat: 'Art, Intellectual Property and Creative', emphasis: 'Clients include', rest: 'laoreet amet lacus nibh integer quis.' },
