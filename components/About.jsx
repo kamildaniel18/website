@@ -34,8 +34,8 @@ const people = [
         <div className="mx-auto max-w-5xl py-12 px-4 sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
-              <h2 className="text-3xl font-regular font-serif italic tracking-tight sm:text-4xl">About Us</h2>
-              <p className="text-lg font-regular text-gray-500">
+              <h2 className="text-3xl font-regular font-serif italic tracking-tight sm:text-4xl">About Me</h2>
+              <p className="text-md font-regular text-gray-500">
                 A boutique legal and consulting firm in the heart of London. Kamil&apos;s combined experience varies from work within regulator-public institutions, Global think tanks, European Political parties, and Private Corporate practices. Ranging from pre-seeds, startups, scale-ups, and finally, private companies or publicly listed (FTSE, NYSE, SnP500, Fortune amongst), Examining both from a Corporate angle and a Regulator’s lens. Kamil uses his network of corporate, public, and private clients to offer consultancy advice diligently/duly within and across borders or jurisdictions​. Whether international, regional, federal, or local.
               </p>
             </div>

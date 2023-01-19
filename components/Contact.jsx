@@ -52,12 +52,16 @@ export default function Example() {
               </div>
             </dl>
             <p className="mt-6 text-base text-gray-500">
+             Zoom, Teams, Meet, Skype, etc.
+            </p>
+            <p className="mt-6 text-base text-gray-500">
               Schedule a meeting{' '}
               <a href="https://calendly.com/kamildaniel-legal" className="font-medium text-gray-700 underline">
                 with Kamil
               </a>
               .
             </p>
+           
           </div>
         </div>
         <div className="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
@@ -68,7 +72,7 @@ export default function Example() {
             <div className="mt-3">
               <p className="text-lg text-gray-500">
               
-                Available for in-person meetings in the EU and United Kingdom, Q4 2022.
+                Available via video-conference calls and in-person meetings in the EU and United Kingdom, Q3 & Q4 2023.
               </p>
             </div>
             <div className="mt-9">
@@ -89,7 +93,16 @@ export default function Example() {
             <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For US requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-                Available for in-person meetings in the United States & Canada, in Q1 & Q2 2023.
+                Available via video conference calls and in-person meetings in the United States & Canada, in Q1 & Q2 2023.
+              </p>
+            </div>
+            
+          </div>
+          <div className="mt-12 sm:mt-16 md:mt-0">
+            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For Global requests</h2>
+            <div className="mt-3">
+              <p className="text-lg text-gray-500">
+                Available via video conference calls and in-person meetings per requested location.
               </p>
             </div>
             

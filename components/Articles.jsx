@@ -19,7 +19,7 @@ const posts = [
     },
     {
       title: 'Redefining Compliance for Climate Change Procedural Obligations under the Paris Agreement',
-      href: '#',
+      href: 'https://www.academia.edu/50800298/Redefining_Compliance_for_Climate_Change_Procedural_Obligations_under_the_Paris_Agreement_Introducing_Blockchain_A_Preventive_Technology_to_include_Transparency_Accountability_and_Science',
       category: { name: 'Thesis', href: '#' },
       description:
         'Introducing blockchain - a preventative technology to include transparency, accountability and science.',

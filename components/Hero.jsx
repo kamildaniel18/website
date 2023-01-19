@@ -11,6 +11,7 @@ const navigation = [
   { name: 'About', href: '/#about' },
   
 ]
+import law from '../public/img/law.png'
 
 export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -111,6 +112,7 @@ export default function Example() {
                         key={item.name}
                         href={item.href}
                         className="-mx-3 block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-400/10"
+                        onClick={() => setMobileMenuOpen(false)}
                       >
                         {item.name}
                       </a>
@@ -134,7 +136,8 @@ export default function Example() {
         <div className="relative px-6 lg:px-8">
           <div className="mx-auto max-w-3xl pt-48 pb-32 sm:pt-48 sm:pb-40">
             <div>
-              <div className="hidden sm:mb-8 sm:flex sm:justify-center">
+            
+              {/* <div className="hidden sm:mb-8 sm:flex sm:justify-center">
                 <div className="relative overflow-hidden rounded-full py-1.5 px-4 text-sm leading-6 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
                   <span className="text-gray-600">
                     Schedule a call{' '}
@@ -144,8 +147,18 @@ export default function Example() {
                     </a>
                   </span>
                 </div>
-              </div>
+              </div> */}
               <div>
+              <figure>
+            <Image
+              className="w-1/6 rounded-lg sm:mx-auto mb-4"
+              src={law}
+              alt=""
+              width={1310}
+              height={873}
+            />
+            
+          </figure>
                 <h1 className="text-4xl font-regular font-serif italic tracking-tight sm:text-center sm:text-6xl">
                   Find your legal and compliance solution
                 </h1>

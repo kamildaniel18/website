@@ -33,7 +33,7 @@ const metrics = [
               A proven track record of excellence
             </p>
             <p className="mt-5 text-lg text-slate-700">
-            Kamil provides legal advice to a number of clients across a diverse array of industries.
+            Kamil provides legal advice to a number of clients across a diverse array of practice areas.
             </p>
             <div className="mt-12 grid grid-cols-1 gap-y-12 gap-x-6 sm:grid-cols-1">
               {metrics.map((item) => (
