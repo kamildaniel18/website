@@ -11,7 +11,8 @@
     ],
   }
   ```
-*/
+
+  */
 import { EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
 import Link from 'next/link'
 export default function Example() {
@@ -40,7 +41,11 @@ export default function Example() {
                 <dt className="sr-only">Phone number</dt>
                 <dd className="flex">
                   <PhoneIcon className="h-6 w-6 flex-shrink-0 text-gray-400" aria-hidden="true" />
-                  <span className="ml-3">+44 77 33 78 44 44</span>
+                  <div className="ml-3 text-base text-gray-500">
+                    <p className="mb-2">+ 44 77 33 78 44 44 (United Kingdom)</p>
+                    <p className="mb-2">+ 32 487 47 88 21 (Europe)</p>
+                    <p className="mt-1">Mon-Fri 8AM to 6PM GMT</p>
+              </div>
                 </dd>
               </div>
               <div className="mt-3">
@@ -59,53 +64,44 @@ export default function Example() {
               <a href="https://calendly.com/kamildaniel-legal" className="font-medium text-gray-700 underline">
                 with Kamil
               </a>
-              .
             </p>
-           
           </div>
         </div>
         <div className="bg-white py-16 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
           <div className="mx-auto max-w-lg lg:max-w-none">
           <div className="mx-auto max-w-lg md:grid md:max-w-none md:grid-cols-1  md:gap-8">
           <div>
-            <h2 className="text-2xl font-regular italic font-serif text-gray-900 sm:text-2xl sm:tracking-tight">For UK/EU requests</h2>
+            <h2 className="text-2xl font-regular italic font-serif text-gray-900 sm:text-2xl sm:tracking-tight">For UK/EU/CH requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
               
-                Available via video-conference calls and in-person meetings in the EU and United Kingdom, Q3 & Q4 2023.
+                Available via video-conference calls and in-person meetings in the EU, Switzerland and United Kingdom, Q4 2023.
               </p>
-            </div>
-            <div className="mt-9">
-              <div className="flex">
-                <div className="flex-shrink-0">
-                  <PhoneIcon className="h-6 w-6 text-gray-400" aria-hidden="true" />
-                </div>
-                <div className="ml-3 text-base text-gray-500">
-                  <p className="mb-2">+ 44 77 33 78 44 44 (United Kingdom)</p>
-                  <p className="mb-2">+ 32 487 47 88 21 (Europe)</p>
-                  <p className="mt-1">Mon-Fri 8am to 6pm GMT</p>
-                </div>
-              </div>
-              
             </div>
           </div>
           <div className="mt-12 sm:mt-16 md:mt-0">
-            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For US requests</h2>
+            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For NA requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-                Available via video conference calls and in-person meetings in the United States & Canada, in Q1 & Q2 2023.
+                Available via video conference calls and in-person meetings in the United States & Canada, Q3 2023.
               </p>
             </div>
-            
+          </div>
+          <div className="mt-12 sm:mt-16 md:mt-0">
+            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For MENA requests</h2>
+            <div className="mt-3">
+              <p className="text-lg text-gray-500">
+                Available via video conference calls and in-person meetings per requested location, Q1 2024.
+              </p>
+            </div>
           </div>
           <div className="mt-12 sm:mt-16 md:mt-0">
             <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For Global requests</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-                Available via video conference calls and in-person meetings per requested location.
+                Available via video conference calls and in-person meetings per requested location, Q1 2024.
               </p>
             </div>
-            
           </div>
         </div>
           </div>

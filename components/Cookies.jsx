@@ -140,7 +140,7 @@ export default function Example() {
             </span>
           </h1>
           <p className="mt-8 text-xl leading-8 text-gray-500">
-          <iframe  className="w-full h-screen" src="https://docs.google.com/document/d/e/2PACX-1vSTQ3fWuVIDYVU488HDJhlrsez9YjotIKICuZWgiM2m8PLjvUNowuA12jiMrWVGdg/pub?embedded=true"></iframe>
+          <iframe  className="w-full h-screen" src="https://docs.google.com/document/d/e/2PACX-1vTmM7DikhmCcBgJBkY4UH1y1P6-ZvXn6U0zIL5hxTS2w3kadNmF8cYaPwYM-dPnC_gUsD-Gduc1i6V4/pub?embedded=true"></iframe>
           </p>
         </div>
         

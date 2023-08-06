@@ -21,12 +21,14 @@ const people = [
       role: 'Founding Partner',
       imageUrl:
         kamil,
-      bio: 'Kamil is educated in common law (LLB Full Scholarship + Hons.) from King’s College London, (UK) Subsequently, he pursued civil law funded by the EU Erasmus Master Grant (Distinction) from Uppsala University (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since travelled to New York to seek admission to the third appellate division of NYC to further develop his international qualifications and bring a truly global perspective to clients. Kamil speaks fluently French, English, and Farsi and has a proper level of Croatian (B2) and German (B2).',
+      bio: 'Kamil is educated in common law (LLB Full Scholarship + Honours) from King’s College London, UK. Subsequently, he pursued civil law funded by the EU Erasmus Master Grant (Distinction) from Uppsala University (Sweden). He holds an LL.M in International Law, with a specialization in International Environmental Law from the Graduate Institute of Geneva, (Switzerland) (E.U. Grant), where he wrote his thesis on International Technology Law as a governance tool using Distributive Ledger Mechanisms (DLTs – Blockchain). He has since travelled to New York to seek admission to the third appellate division of NYC to further develop his international qualifications and bring a truly global perspective to clients. Kamil speaks fluent French, English, and Farsi and has a proper level of Croatian (B2) and German (B2). As a dedicated and proactive legal and compliance professional, he is passionate about upholding ethical standards with foundations for the long run, with a long-term goal of becoming an established, trusted Board Member. Kamil has a proven track record of success in managing risk and ensuring regulatory compliance. He has often negotiated deals and been front-facing with clients, executive management, and regulators.',
       twitterUrl: '#',
       linkedinUrl: 'https://ch.linkedin.com/in/kamilkdaniel?trk=public-profile-badge-profile-badge-view-profile-cta',
     },
     // More people...
   ]
+  
+
   
   export default function Example() {
     return (
@@ -35,8 +37,8 @@ const people = [
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-regular font-serif italic tracking-tight sm:text-4xl">About Me</h2>
-              <p className="text-md font-regular text-gray-500">
-                A boutique legal and consulting firm in the heart of London. Kamil&apos;s combined experience varies from work within regulator-public institutions, Global think tanks, European Political parties, and Private Corporate practices. Ranging from pre-seeds, startups, scale-ups, and finally, private companies or publicly listed (FTSE, NYSE, SnP500, Fortune amongst), Examining both from a Corporate angle and a Regulator’s lens. Kamil uses his network of corporate, public, and private clients to offer consultancy advice diligently/duly within and across borders or jurisdictions​. Whether international, regional, federal, or local.
+              <p className="text-md font-regular text-gray-500 text-justify tracking-tight">
+                A boutique legal and consulting firm in the heart of London. Kamil&apos;s combined experience varies from work within regulator-public institutions, Global think tanks, European Political parties, and Private Corporate practices. Ranging from pre-seeds, startups, scale-ups, and finally, private companies or publicly listed (FTSE, NYSE, S&P500), examining both from a corporate angle and a regulator’s lens. Kamil uses his network of corporate, public, and private clients to offer consultancy advice diligently/duly within and across borders or jurisdictions​. Whether international, regional, federal, or local. With his analytical thinking skills and a keen eye for detail, Kamil offers focused and diplomatic counsel while demonstrating balanced judgment and taking responsibility for his actions. His diverse international upbringing has ingrained in him the importance of adaptability and resilience as an ongoing process throughout life. His background entails residing in various countries, including France, Poland, Belgium, Cyprus, Croatia, Sweden, the UK, Canada, the United States, and Switzerland. 
               </p>
             </div>
             <div className="lg:col-span-2">
@@ -56,8 +58,8 @@ const people = [
                             <h3 className="font-serif italic font-regular text-2xl">{person.name}</h3>
                             <p className="text-green-600">{person.role}</p>
                           </div>
-                          <div className="text-lg">
-                            <p className="text-gray-500">{person.bio}</p>
+                          <div className="text-md">
+                            <p className="text-1xl text-md font-regular text-gray-500 text-justify tracking-tight">{person.bio}</p>
                           </div>
                           <ul role="list" className="flex space-x-5">
                             <li>

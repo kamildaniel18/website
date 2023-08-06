@@ -91,7 +91,7 @@ const navigation = {
               </a>
             ))}
           </div> */}
-          <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Kamil Daniel, LLC. All rights reserved.</p>
+          <p className="mt-8 text-center text-base text-gray-400">&copy; 2024 Kamil Daniel, LLC. All rights reserved.</p>
           <p className="mt-8 text-center text-base text-gray-400">By continuing to use the website, you agree to KamilDaniel&apos;s Terms & Conditions, Disclaimer, Privacy Policy and Cookies Policy.</p>
         </div>
       </footer>
