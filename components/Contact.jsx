@@ -33,8 +33,7 @@ export default function Example() {
                 <dt className="sr-only">Postal address</dt>
                 <dd>
                 <p>Kamil Daniel LLC</p>
-                  <p>Floor 5, 20 Saville Row</p>
-                  <p>London, W1S 3SR</p>
+                  <p>London</p>
                 </dd>
               </div>
               <div className="mt-6">
@@ -71,40 +70,18 @@ export default function Example() {
           <div className="mx-auto max-w-lg lg:max-w-none">
           <div className="mx-auto max-w-lg md:grid md:max-w-none md:grid-cols-1  md:gap-8">
           <div>
-            <h2 className="text-2xl font-regular italic font-serif text-gray-900 sm:text-2xl sm:tracking-tight">For UK/EU/CH requests</h2>
+            <h2 className="text-2xl font-regular italic font-serif text-gray-900 sm:text-2xl sm:tracking-tight">Regional Availability</h2>
             <div className="mt-3">
               <p className="text-lg text-gray-500">
-              
-                Available via video-conference calls and in-person meetings in the EU, Switzerland and United Kingdom, Q4 2023.
+                Available globally via video-conference, and in-person meetings within the EU, Switzerland, and United Kingdom.
+                <br />
+                <br />
+                In-person meetings outside of EU, Switzerland, and UK are possible on an as-needed basis.
               </p>
             </div>
           </div>
-          <div className="mt-12 sm:mt-16 md:mt-0">
-            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For NA requests</h2>
-            <div className="mt-3">
-              <p className="text-lg text-gray-500">
-                Available via video conference calls and in-person meetings in the United States & Canada, Q3 2023.
-              </p>
-            </div>
-          </div>
-          <div className="mt-12 sm:mt-16 md:mt-0">
-            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For MENA requests</h2>
-            <div className="mt-3">
-              <p className="text-lg text-gray-500">
-                Available via video conference calls and in-person meetings per requested location, Q1 2024.
-              </p>
-            </div>
-          </div>
-          <div className="mt-12 sm:mt-16 md:mt-0">
-            <h2 className="text-2xl font-regular font-serif italic text-gray-900 sm:text-2xl sm:tracking-tight">For Global requests</h2>
-            <div className="mt-3">
-              <p className="text-lg text-gray-500">
-                Available via video conference calls and in-person meetings per requested location, Q1 2024.
-              </p>
-            </div>
           </div>
         </div>
-          </div>
         </div>
       </div>
     </div>
