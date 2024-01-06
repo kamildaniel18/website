@@ -1,5 +1,41 @@
 const posts = [
   {
+      title: 'Exploring Dynamic Shifts in Binance and Centralised Exchanges (CEX)',
+      href: 'https://www.linkedin.com/pulse/exploring-dynamic-shifts-binance-centralized-exchanges-cex-w4glc/',
+      category: { name: 'Article', href: 'https://www.linkedin.com/pulse/exploring-dynamic-shifts-binance-centralized-exchanges-cex-w4glc/' },
+      description:
+        'Regulatory challenges, security apprehensions, and the ascent of decentralised alternatives have reshaped how traders and investors engage with digital assets. While centralised exchanges remain relevant in the crypto ecosystem, the future may be increasingly decentralised. What could have been an opportunity soon became a power vacuum rather than added services and customer operations towards Binance. Another round of scrutiny came from various regulators towards CEX(s). Instead of providing more services and Users, Binance, the largest CEX in the world, must now restrict its offering and re-adapt its suite to ensure compliance.',
+      date: 'October 19, 2023',
+      datetime: '2023-10-19',
+      imageUrl:
+        'https://images.unsplash.com/photo-1548783307-f63adc3f200b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      readingTime: '22 min',
+      author: {
+        name: 'KamilDaniel Ltd',
+        href: '#',
+        imageUrl:
+          'https://i.ibb.co/wYwvQtc/Kamil-Daniel-Logo-White-copy.png',
+      },
+   },
+  {
+      title: 'Regulatory Press Brief. Navigating the Impact of the Recent MiCA Release on European Union Crypto-Asset Regulation: Synergies & Disparities in Current EU Laws',
+      href: 'https://www.linkedin.com/pulse/regulatory-press-brief-navigating-impact-recent-mica-release/',
+      category: { name: 'Article', href: 'https://www.linkedin.com/pulse/regulatory-press-brief-navigating-impact-recent-mica-release/' },
+      description:
+        'The heart of the commentary lies in the intricate interplay between MiCA and a diverse array of EU laws. Each legal instrument examined, including the Payment Services Directive (PSD2), Anti-Money Laundering (AML), Counter-Terrorist Financing (CTF) Regulations, Markets in Financial Instruments Directive II (MiFID II), the Digital Services Act (DSA), Digital Markets Act (DMA) and Environment Social Governance (ESG) principles will interact with the Market in Crypto Assets Regulation (MiCA).',
+      date: 'August 15, 2023',
+      datetime: '2023-08-15',
+      imageUrl:
+        'https://images.unsplash.com/photo-1582124534218-f7bf8b908f2d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      readingTime: '30 min',
+      author: {
+        name: 'KamilDaniel Ltd',
+        href: '#',
+        imageUrl:
+          'https://i.ibb.co/jbn3jH4/Kamil-Daniel-Logo-Green.png',
+      },
+   },
+  {
     title: 'Step-by-Step Guide to Dealing with Neo/Digital Banks Customer Service Issues',
     href: 'https://www.linkedin.com/pulse/step-by-step-guide-dealing-customer-service-issues-digital',
     category: { name: 'Article', href: '#' },
@@ -18,21 +54,39 @@ const posts = [
     },
   },
   {
-    title: 'Redefining Compliance for Climate Change Procedural Obligations under the Paris Agreement',
-    href: 'https://www.academia.edu/50800298/Redefining_Compliance_for_Climate_Change_Procedural_Obligations_under_the_Paris_Agreement_Introducing_Blockchain_A_Preventive_Technology_to_include_Transparency_Accountability_and_Science',
-    category: { name: 'Master Thesis', href: '#' },
-    description:
-      'Introducing blockchain - a preventative technology to include transparency, accountability and science. Written in 2018 and 2019 in Geneva, this thesis combined insights from working 6 months at UN Environment in the reporting branch of SAICM as well as combining classic international law knowledge when undertaking the LL.M in International Law at the Graduate Institute of Geneva.',
-    date: 'Mar 10, 2020',
-    datetime: '2020-03-10',
-    imageUrl:
-      'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 ',
-    readingTime: '4 min',
-    author: {
-      name: 'Kamil Daniel Akdag',
-      href: '#',
+      title: 'Governing Carbon Markets with Distributed Ledger Technology',
+      href: 'https://www.cambridge.org/core/books/abs/governing-carbon-markets-with-distributed-ledger-technology/acknowledgements/C822E30BDB98A639DD49639A9BB9236A',
+      category: { name: 'Article', href: 'https://www.cambridge.org/core/books/abs/governing-carbon-markets-with-distributed-ledger-technology/acknowledgements/C822E30BDB98A639DD49639A9BB9236A' },
+      description:
+        "Edited by Alastair Marke, Blockchain and Climate Institute, Michael Mehling, Massachusetts Institute of Technology, Fabiano de Andrade Correa, Blockchain and Climate Institute. This book has been developed as a collaborative effort by the Blockchain & Climate Institute's Legal Research Division. This volume offers the first book-length exploration of how carbon markets can be governed using DLT, offering conceptual and theoretical analysis, practical case studies, and a roadmap for implementation of a DLT-based architecture in major existing and emerging carbon markets. It surveys existing expertise on distributed ledger technology, provides progress updates from industry professionals, and shows how this technology could offer a cost-effective and sustainable solution to double-counting and other governance concerns identified as major challenges in the implementation of carbon markets.",
+      date: 'August 19, 2022',
+      datetime: '2022-08-19',
       imageUrl:
-        'https://a.academia-assets.com/assets/academia-logo-redesign-2015-45ae31566d1421084023fae986d81b06469982455d4be698a5226a904e7836a9.svg',
+        'https://images.unsplash.com/photo-1490775949603-0e355e8e01ba?q=80&w=1732&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      readingTime: '48 min',
+      author: {
+        name: 'Cambridge University Press',
+        href: '#',
+        imageUrl:
+          'https://i.ibb.co/THfwGYD/Cambridge-Univ-Press-logo-640-x-402.jpg',
+      },
+   },
+  {
+      title: 'Making The Polluter Pay: How Blockchain Can Aid Climate Adjudication',
+      href: 'https://blockchainclimate.org/making-the-polluter-pay-how-blockchain-can-aid-climate-adjudication/',
+      category: { name: 'Article', href: 'https://blockchainclimate.org/making-the-polluter-pay-how-blockchain-can-aid-climate-adjudication/' },
+      description:
+        'Proving causation is a major impediment to effectively implementing environmental law. In providing greater traceability, blockchain allows courts to better adjudicate on the source of pollution.',
+      date: 'May 18, 2020',
+      datetime: '2020-05-18',
+      imageUrl:
+        'https://images.unsplash.com/photo-1569410593054-c37f3c20c52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80',
+      readingTime: '5 min',
+      author: {
+        name: 'Institute of Blockchain & Climate',
+        href: '#',
+        imageUrl:
+          'https://blockchainclimate.org/wp-content/uploads/2020/11/cropped-BCI_Logo_LR-400x333.png',
     },
   },
   {
@@ -54,23 +108,23 @@ const posts = [
     },
   },
   {
-      title: 'Making The Polluter Pay: How Blockchain Can Aid Climate Adjudication',
-      href: 'https://blockchainclimate.org/making-the-polluter-pay-how-blockchain-can-aid-climate-adjudication/',
-      category: { name: 'Article', href: 'https://blockchainclimate.org/making-the-polluter-pay-how-blockchain-can-aid-climate-adjudication/' },
-      description:
-        'Proving causation is a major impediment to effectively implementing environmental law. In providing greater traceability, blockchain allows courts to better adjudicate on the source of pollution.',
-      date: 'May 18, 2020',
-      datetime: '2020-05-18',
+    title: 'Redefining Compliance for Climate Change Procedural Obligations under the Paris Agreement',
+    href: 'https://www.academia.edu/50800298/Redefining_Compliance_for_Climate_Change_Procedural_Obligations_under_the_Paris_Agreement_Introducing_Blockchain_A_Preventive_Technology_to_include_Transparency_Accountability_and_Science',
+    category: { name: 'Master Thesis', href: '#' },
+    description:
+      'Introducing blockchain - a preventative technology that includes transparency, accountability and science. Written in 2018 and 2019 in Geneva, this master thesis combined insights from six months at the United Nations Environment in the reporting branch of (SAICM) the Strategy Approach to International Chemical Waste. Dealing with stakeholders while undertaking the LL.M. in International Law at the Graduate Institute of Geneva with a specialisation in international environmental law to combine practice and theory with the thesis.',
+    date: 'Aug 12, 2019',
+    datetime: '2019-08-12',
+    imageUrl:
+      'https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80 ',
+    readingTime: '50 min',
+    author: {
+      name: 'Kamil Daniel Akdag',
+      href: '#',
       imageUrl:
-        'https://images.unsplash.com/photo-1569410593054-c37f3c20c52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80',
-      readingTime: '5 min',
-      author: {
-        name: 'Institute of Blockchain & Climate',
-        href: '#',
-        imageUrl:
-          'https://blockchainclimate.org/wp-content/uploads/2020/11/cropped-BCI_Logo_LR-400x333.png',
-      },
+        'https://a.academia-assets.com/assets/academia-logo-redesign-2015-45ae31566d1421084023fae986d81b06469982455d4be698a5226a904e7836a9.svg',
     },
+  },
   ]
 
   export default function Example() {
@@ -132,4 +186,4 @@ const posts = [
       </div>
     )
   }
-  
+
