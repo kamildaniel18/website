@@ -1,5 +1,23 @@
 const posts = [
   {
+    title: 'Enhancing Corporate Accountability Away from Greenwashing. A Legal Perspective on the Imperative of ESG Practices',
+    href: 'https://www.linkedin.com/pulse/enhancing-corporate-accountability-away-from-greenwashing-roybe',
+    category: { name: 'Article', href: 'https://www.linkedin.com/pulse/enhancing-corporate-accountability-away-from-greenwashing-roybe' },
+    description:
+      'It elucidates vital legislation like the Companies Act 2006 and the Non-Financial Reporting Directive (NFRD), outlining their role in shaping the regulatory framework that mandates companies to disclose crucial ESG-related information. In conclusion, the article underscores the significance of adhering to legal and compliance obligations and offers strategic recommendations for companies to bolster their ESG practices. These recommendations include the imperative of conducting a materiality assessment, formulating a comprehensive ESG policy, engaging stakeholders, effectively implementing robust monitoring and reporting mechanisms, and fostering a commitment to continuous improvement in ESG performance. Through this legal lens, the article advocates for a holistic and legally sound approach towards ESG integration in corporate practices.',
+    date: 'February 20, 2024',
+    datetime: '2024-02-20',
+    imageUrl:
+      'https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    readingTime: '19 min',
+    author: {
+      name: 'KamilDaniel Ltd',
+      href: '#',
+      imageUrl:
+        'https://i.ibb.co/wYwvQtc/Kamil-Daniel-Logo-White-copy.png',
+    },
+  },
+  {
       title: 'Exploring Dynamic Shifts in Binance and Centralised Exchanges (CEX)',
       href: 'https://www.linkedin.com/pulse/exploring-dynamic-shifts-binance-centralized-exchanges-cex-w4glc/',
       category: { name: 'Article', href: 'https://www.linkedin.com/pulse/exploring-dynamic-shifts-binance-centralized-exchanges-cex-w4glc/' },
@@ -56,7 +74,7 @@ const posts = [
   {
       title: 'Governing Carbon Markets with Distributed Ledger Technology',
       href: 'https://www.cambridge.org/core/books/abs/governing-carbon-markets-with-distributed-ledger-technology/acknowledgements/C822E30BDB98A639DD49639A9BB9236A',
-      category: { name: 'Article', href: 'https://www.cambridge.org/core/books/abs/governing-carbon-markets-with-distributed-ledger-technology/acknowledgements/C822E30BDB98A639DD49639A9BB9236A' },
+      category: { name: 'Book Chapter', href: 'https://www.cambridge.org/core/books/abs/governing-carbon-markets-with-distributed-ledger-technology/acknowledgements/C822E30BDB98A639DD49639A9BB9236A' },
       description:
         "Edited by Alastair Marke, Blockchain and Climate Institute, Michael Mehling, Massachusetts Institute of Technology, Fabiano de Andrade Correa, Blockchain and Climate Institute. This book has been developed as a collaborative effort by the Blockchain & Climate Institute's Legal Research Division. This volume offers the first book-length exploration of how carbon markets can be governed using DLT, offering conceptual and theoretical analysis, practical case studies, and a roadmap for implementation of a DLT-based architecture in major existing and emerging carbon markets. It surveys existing expertise on distributed ledger technology, provides progress updates from industry professionals, and shows how this technology could offer a cost-effective and sustainable solution to double-counting and other governance concerns identified as major challenges in the implementation of carbon markets.",
       date: 'August 19, 2022',
