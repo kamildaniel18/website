@@ -140,7 +140,7 @@ const posts = [
       name: 'Kamil Daniel Akdag',
       href: '#',
       imageUrl:
-        'https://a.academia-assets.com/assets/academia-logo-redesign-2015-45ae31566d1421084023fae986d81b06469982455d4be698a5226a904e7836a9.svg',
+        'https://i.ibb.co/jbn3jH4/Kamil-Daniel-Logo-Green.png',
     },
   },
   ]
