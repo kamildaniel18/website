@@ -22,19 +22,19 @@ const posts = [
   },
   {
     title:
-      "Enhancing Corporate Accountability Away from Greenwashing. A Legal Perspective on the Imperative of ESG Practices",
-    href: "https://www.linkedin.com/pulse/enhancing-corporate-accountability-away-from-greenwashing-roybe",
+      "The Impact of Brexit on Corporate Regulation in Ireland An Analysis of Post-Brexit Regulatory Adjustments and Strategic Responses",
+    href: "https://www.linkedin.com/pulse/impact-brexit-corporate-regulation-ireland-analysis-post-brexit-bzg9e/?published=t",
     category: {
       name: "Article",
-      href: "https://www.linkedin.com/pulse/enhancing-corporate-accountability-away-from-greenwashing-roybe",
+      href: "https://www.linkedin.com/pulse/impact-brexit-corporate-regulation-ireland-analysis-post-brexit-bzg9e/?published=t",
     },
     description:
-      "This legal article underscores the criticality for companies to embrace Environmental Social and Governance (ESG) practices, emphasising the importance of transparency, authenticity, and accountability in advancing sustainability goals and mitigating the risks of ESG greenwashing. The narrative navigates through international frameworks and tools explicitly recommending adherence to the U.N. Principles for Responsible Investment (UK PRI) and the U.K. Stewardship Code to elevate reporting standards in line with global and national benchmarks. The article delves into the legal and compliance landscape, shedding light on obligatory requirements for companies operating in the U.K. and E.U. Through this legal lens, the article advocates for a holistic and legally sound approach towards ESG integration in corporate practices.",
-    date: "February 20, 2024",
-    datetime: "2024-02-20",
+      "Presented to Matheson LLP, Dublin HQ on April 24th. This paper explores the significant transformations within Ireland's corporate regulatory landscape in response to the United Kingdom’s withdrawal from the European Union. As a close economic partner of the UK and a committed EU member, Ireland has found itself at a regulatory crossroads—balancing alignment with evolving EU directives while mitigating disruption from the UK’s regulatory divergence. The study evaluates how Ireland has addressed cross-border legal complexities, financial services adjustments, and the challenge of regulatory arbitrage. It highlights the strategic responses undertaken by Irish regulators, businesses, and legal professionals to preserve investor confidence, maintain market integrity, and sustain Ireland's attractiveness as a destination for international corporate activity. The paper concludes that, despite the immediate frictions posed by Brexit, Ireland is uniquely positioned to act as a regulatory bridge between the EU and UK, offering both resilience and opportunity for innovation in the post-Brexit corporate legal order.",
+    date: "May 21, 2025",
+    datetime: "2025-05-21",
     imageUrl:
       "https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    readingTime: "19 min",
+    readingTime: "5 min",
     author: {
       name: "KamilDaniel Ltd",
       href: "#",
