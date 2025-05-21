@@ -12,7 +12,7 @@ const posts = [
     date: "May 21, 2025",
     datetime: "2025-05-21",
     imageUrl:
-      "https://unsplash.com/photos/a-statue-on-top-of-a-building-with-a-sky-background-oU_U1cwPSu4",
+      "https://images.unsplash.com/photo-1706991038489-85caf6beaf74?q=80&w=2505&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     readingTime: "18 min",
     author: {
       name: "KamilDaniel Ltd",
@@ -33,7 +33,7 @@ const posts = [
     date: "May 21, 2025",
     datetime: "2025-05-21",
     imageUrl:
-      "https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-3zkGcVRjPBU",
+      "https://images.unsplash.com/photo-1586724229931-cd4cd3b50ddc?q=80&w=2992&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     readingTime: "5 min",
     author: {
       name: "KamilDaniel Ltd",
