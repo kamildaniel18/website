@@ -30,8 +30,8 @@ const posts = [
     },
     description:
       "Presented to Matheson LLP, Dublin HQ on April 24th. This paper explores the significant transformations within Ireland's corporate regulatory landscape in response to the United Kingdom’s withdrawal from the European Union. As a close economic partner of the UK and a committed EU member, Ireland has found itself at a regulatory crossroads—balancing alignment with evolving EU directives while mitigating disruption from the UK’s regulatory divergence. The study evaluates how Ireland has addressed cross-border legal complexities, financial services adjustments, and the challenge of regulatory arbitrage. It highlights the strategic responses undertaken by Irish regulators, businesses, and legal professionals to preserve investor confidence, maintain market integrity, and sustain Ireland's attractiveness as a destination for international corporate activity. The paper concludes that, despite the immediate frictions posed by Brexit, Ireland is uniquely positioned to act as a regulatory bridge between the EU and UK, offering both resilience and opportunity for innovation in the post-Brexit corporate legal order.",
-    date: "May 21, 2025",
-    datetime: "2025-05-21",
+    date: "April 30, 2025",
+    datetime: "2025-04-30",
     imageUrl:
       "https://images.unsplash.com/photo-1586724229931-cd4cd3b50ddc?q=80&w=2992&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     readingTime: "5 min",
