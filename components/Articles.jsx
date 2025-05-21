@@ -33,7 +33,7 @@ const posts = [
     date: "May 21, 2025",
     datetime: "2025-05-21",
     imageUrl:
-      "https://images.unsplash.com/photo-1680458842473-c0c2ad52f2c7?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-3zkGcVRjPBU",
     readingTime: "5 min",
     author: {
       name: "KamilDaniel Ltd",
